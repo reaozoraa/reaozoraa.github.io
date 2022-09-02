@@ -1,0 +1,64 @@
+
+
+ul {
+    margin-left: -45px;
+}
+li {
+    list-style: none;
+    display: inline-block;
+}
+body{
+    background-image: url("astro.png");
+}
+.main {
+    width: 800px;
+    height: 520px;
+    background-color: #ffffff;
+   ;
+    margin: 0 auto;
+    padding-top: 20px;
+    border-radius: 10px;
+    border: 1px solid #eeeeee'
+}
+.img {
+    background-image: url("aozoraa.jpeg");
+    background-size: cover;
+    border-radius: 100px;
+    width: 150px;
+    height: 150px;
+    margin: 0 auto;
+    border: 1px solid #eaeaea;
+}
+h1 {
+    text-align: center;
+    font-size: 30px;
+    margin: 0;
+    font-weight: bold;
+    color: #dd6baa;
+}
+.text {
+    text-align: center;
+    font-size: 15px;
+    margin: 0;
+    color: #000000;
+}
+p {
+    margin: 0 auto;
+    padding-top: 20px;
+    width: 450px;
+    height: auto;
+    color: #000000;
+    text-align: justify;
+}
+.gambar{
+   width: 100px;
+   height: 20px;
+}
+.sosmed{
+   display: flex;
+   flex-direction: column;
+   /* margin: 50px 0 0 0; */
+   margin-top: 50px;
+   margin-left: 5px;
+
+}
